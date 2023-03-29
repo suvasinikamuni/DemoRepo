@@ -1,0 +1,9 @@
+{
+	"name": "ADFgitWafademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1abce09-1545-4ca0-87a7-879ec82176a1",
+		"tenantId": "c0bb4cdf-7df0-4638-9c73-c46366fdd364"
+	}
+}
